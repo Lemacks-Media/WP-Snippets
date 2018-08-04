@@ -1,0 +1,59 @@
+<script type='application/ld+json'>
+    {
+        "@context":"https:\/\/schema.org",
+        "@type":"WebSite",
+        "@id":"#website","url":"https:\/\/lemacksmedia.com\/",
+        "name":"Lemacks Media",
+        "potentialAction":{
+            "@type":"SearchAction",
+            "target":"https:\/\/lemacksmedia.com\/?s={search_term_string}",
+            "query-input":"required name=search_term_string"}
+            }
+</script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Corporation",
+    "@id": "https://lemacksmedia.com/",
+    "legalName": "Lemacks Media",
+    "Founder": {
+    "@type": "Person",
+    "name": "Andrew Lemacks",
+    "sameAs": [
+    	"https://www.facebook.com/AtLemacks/",
+        "https://www.facebook.com/AndrewTLemacks/",
+     	"https://twitter.com/AtLemacks",
+      	"https://www.linkedin.com/in/andrewlemacks",
+      	"https://www.youtube.com/atlemacks",
+      	"https://plus.google.com/+andrewlemacks"
+    ]
+    },
+    "description": "Lemacks Media offers business solutions including: Web Design/Development, Web Hosting, Productivity Solutions like Google © G Suite © and more.",
+    "url": "https://lemacksmedia.com/",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Winnabow",
+      "addressRegion": "NC",
+      "addressCountry": "US",
+      "postalCode": "28479",
+      "streetAddress": "1264 S Brook Rd" },
+    "logo": "https://lemacksmedia.com/wp-content/uploads/2018/07/Favi-sq.png",
+    "contactPoint" : [ {
+        "@type" : "ContactPoint",
+        "telephone" : "+1-910-679-6962",
+        "contactType" : "Customer Service"
+      }
+    ],
+    "sameAs": [
+      "https://www.facebook.com/LemacksMedia/",
+      "https://twitter.com/LemacksMedia",
+      "https://www.linkedin.com/company/LemacksMedia",
+      "https://www.youtube.com/channel/UCz8t87kE4aV69jov5wFdlDw",
+      "https://www.instagram.com/lemacks_media/",
+      "https://www.pinterest.com/lemacksmedia/",
+      "https://lemacksmedia.tumblr.com/",
+      "https://plus.google.com/u/0/115484678771563399442"
+    ]
+  }
+</script>
